@@ -48,8 +48,8 @@ const Home = () =>{
            <div id="fop" className="mx-auto text-center bg-white">
            <footer className="text-center mt-40">
            
-           <img id="hub" src="github.jpg"></img>
-           <img id="link" src="link.jpg"></img>
+           <a href="https://github.com/felipe-programador-18?tab=overview&from=2022-03-01&to=2022-03-07"> <img id="hub" src="github.jpg"></img> </a>  
+        <a href="https://www.linkedin.com/in/felipe-martins-programador/"> <img id="link" src="link.jpg"></img>  </a>       
            
            </footer>
           </div>
