@@ -26,8 +26,8 @@ const Home = () =>{
        </div>
          
         
-        <div className="mx-auto bg-red-100 text-center capitalize">
-        <h1 className="font-bold"> Quem é o Felipe ?</h1>
+        <div className="mx-auto bg-yellow-300 text-center capitalize">
+        <h1 className="font-bold"> Quem é o Felipe?</h1>
         <p className="italic">Eu Sou Desenvolvedor Fullstack, Tenho 27 Anos E Natural De Porto Alegre Estado Do Rio Grande Do Sul.
 
         Sou Um Pessoa Bastante Focada E Ambiciosa Na Vida, Acredito Que Tenho Que Lutar Sempre Pelos Meus Objetivos De Vida.
@@ -39,12 +39,20 @@ const Home = () =>{
         Minhas Experiências: Atualmente Minhas, Experiências São Realizadas No Desenvolvimento De Todos os Projetos Pessoais.</p>
         
         <h1>Minhas experiencias: Atualmente Minhas, experiencias são realizadas no desenvolvimento de todos projetos pessoais.</h1>
+
         </div>
         
-
-
-      
-       
+           <h1 className="text-center font-bold mt-20"> Habilidades e conhecimentos </h1>
+           <img src="tec.jpg"></img>
+           
+           <div id="fop" className="mx-auto text-center bg-white">
+           <footer className="text-center mt-40">
+           
+           <img id="hub" src="github.jpg"></img>
+           <img id="link" src="link.jpg"></img>
+           
+           </footer>
+          </div>
         </>)
 }
 
