@@ -12,7 +12,7 @@ const Projeto = ()=>{
     </div>  
     
      
-      <div className="grid grid-rows-2 hover:grid-rows-6 justify-center bg-blue-300 ">
+      <div className="grid grid-rows-2 hover:grid-rows-6 justify-center bg-white ">
 
       <div className='bg-green-300 w-40 h-40 m-8 transition ease-in-out delay-150 bg-blue-500 hover:-translate-y-1 hover:scale-110 hover:bg-indigo-500 duration-300 ...'> <p className='italic capitalize'>Restaurante vegano</p> <img id="1" src="vegano.png"></img>
           
