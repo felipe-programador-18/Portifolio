@@ -3,7 +3,7 @@
 @tailwind utilities;
 
 body{
-    background-color: rgb(0, 0, 0,0.8);
+    background-color:white;
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
 
@@ -21,3 +21,28 @@ img{
     display: inline;
     border-radius: 50%; 
 }
+
+#hub{
+
+    width: 80px;
+    margin-top: 10px;
+    height: 80px;
+    align-items: center;
+    display: inline;
+    border-radius: 50%;   
+}
+
+#link{
+    width: 80px;
+    margin-top: 10px;
+    height: 80px;
+    align-items: center;
+    display: inline;
+    border-radius: 50%;
+}
+
+#fop{
+    width: 30%;
+    height: 30vh;
+}
+
