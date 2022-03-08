@@ -13,7 +13,7 @@ const About = ()=>{
     </div>
 
     <div className="mx-auto bg-yellow-300 text-center capitalize">
-    <h1 className="font-bold"> Who is Felipe? </h1>
+    <h1 className="italic"> Who is Felipe? </h1>
     <p className="italic">
     I am a Fullstack Developer, I am 27 years old and I was born in Porto Alegre, State of Rio Grande do Sul. I am a very focused and ambitious person in life, I believe I have to always fight for my life goals. Currently I am studying Systems Analysis and Development, where I am in the 4th semester. I seek to be a great professional and great human being too. Currently, I consider myself intermediate in the English language and I am in search of fluency. My goals in the field are: Contribute in the world of technology being a great professional and learning from amazing people and of course fluent in English. My Experiences: Currently mine, experiences are carried out in the development of all personal projects.
     
