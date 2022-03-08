@@ -25,7 +25,7 @@ img{
 #hub{
 
     width: 80px;
-    margin-top: 10px;
+    margin-right: 10px;
     height: 80px;
     align-items: center;
     display: inline;
@@ -34,7 +34,7 @@ img{
 
 #link{
     width: 80px;
-    margin-top: 10px;
+    margin-left: 10px;
     height: 80px;
     align-items: center;
     display: inline;
